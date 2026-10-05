@@ -1,0 +1,42 @@
+*{
+    margin: 4px;
+    box-sizing: border-box;
+}
+
+form{
+    margin-top: 2px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+#hd-title{
+    text-align: center;
+    font-size: large;
+    background-color: blue;
+    color: white;
+}
+button{
+    display: block;
+    width: 200px;
+    margin :20px auto;
+    padding: 10px auto;
+}
+.form-body{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+th, td{
+    border: 1px dotted black;
+    width: 300px;
+    height:70px;
+    
+}
+thead{
+    background-color: brown;
+    color: white;
+}
+table, tbody, td{
+    align-items: center;
+    vertical-align: middle;
+    
+}
